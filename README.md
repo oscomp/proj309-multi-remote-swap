@@ -42,7 +42,7 @@ RDMA是一种新型网络技术，CPU可以通过Infiniband RDMA网卡设备对�
 - GPLv2 (https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 ## 赛题分类
-全系统功能/性能验证
+内核完善
 
 ## 预期目标
 
